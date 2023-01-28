@@ -8,4 +8,6 @@ ankita
 
 My namre is featureBranch2
 
+master
+
 My name is featureBranch3
